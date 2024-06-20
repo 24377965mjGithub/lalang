@@ -27,9 +27,9 @@
         <h2 class="title-ov">ABOUT ME</h2>
         <div class="about-descs">
           <div class="left-text">
-            <p>I am passionate about every work that I'm in, with more than 2 years as a Graphic Designer full time experienced in the company I still enjoy every step of design process.</p>
+            <p>I am passionate about every work that I'm in, with more than 3 years as a Graphic Designer full time experienced in the company I still enjoy every step of design process.</p>
 
-            <p>In this industry I specialize in <b>Web Designing, Mobile Apps, Logo, Posters or social media banner</b> and a <b>simple animation/Video editing</b> as a profession not only to fulfill my needs but it has been my passion since 2018 and here using digital tools I can be creative and feel so awesome to do every line or shape that I made.</p>
+            <p>In this industry I specialize in <b>Web Designing, Funnel Designing, Mobile Apps, Logo, Posters or social media banner</b> and a <b>simple animation/Video editing</b> as a profession not only to fulfill my needs but it has been my passion since 2018 and here using digital tools I can be creative and feel so awesome to do every line or shape that I made.</p>
           </div>
           <div class="right-text">
             <p>
@@ -255,7 +255,7 @@ export default {
               img: '/images/update.mp4',
               full: '/images/update.mp4'
             },
-            
+
           ]
         },
       ],
